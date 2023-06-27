@@ -1,5 +1,5 @@
 ingress:
-  enabled: true
+  enabled: false
   host: demo.apps.dataease.com
   annotations: {}
     ## example for ingress annotions.
@@ -77,7 +77,7 @@ redis:
     cpu: 4
     memory: 8G
 doris_fe:
-  enable: true
+  enable: false
   host: doris-fe
   imagePrefix: "uhub.service.ucloud.cn/dataease/"
   image: doris-fe
@@ -91,7 +91,7 @@ doris_fe:
     size: 10Gi
 
 doris_be:
-  enable: true
+  enable: false
   host: doris-be
   imagePrefix: "uhub.service.ucloud.cn/dataease/"
   image: doris-be

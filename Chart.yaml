@@ -8,5 +8,5 @@ maintainers:
   name: fanyumin
 name: dataease
 sources:
-- https://github.com/mfanoffice/dataease-helm
+- https://github.com/chwjbn/dataease-helm
 version: 1.18.4
