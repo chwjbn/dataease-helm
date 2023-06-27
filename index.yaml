@@ -3,9 +3,9 @@ entries:
   dataease:
   - apiVersion: v1
     appVersion: 1.18.4
-    created: "2023-06-27T23:13:07.2454992+08:00"
+    created: "2023-06-27T23:19:49.0782258+08:00"
     description: A Helm chart to deploy DataEase
-    digest: 4882565bd81870edd89c141dfb5cf9ac322a1af0f17ccf2aa10236fbbdeebfb1
+    digest: ab7b17e08a4aab8fdc62b16735374f416353a6f8cd0b9523e69173a06c2cc5d2
     home: https://dataease.io
     icon: https://dataease.io/images/logo/favicon.ico
     maintainers:
@@ -17,4 +17,4 @@ entries:
     urls:
     - dataease-1.18.4.tgz
     version: 1.18.4
-generated: "2023-06-27T23:13:07.2444366+08:00"
+generated: "2023-06-27T23:19:49.0771148+08:00"
