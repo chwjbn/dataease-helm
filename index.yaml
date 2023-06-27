@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  dataease:
+  - apiVersion: v1
+    appVersion: 1.18.4
+    created: "2023-06-27T23:13:07.2454992+08:00"
+    description: A Helm chart to deploy DataEase
+    digest: 4882565bd81870edd89c141dfb5cf9ac322a1af0f17ccf2aa10236fbbdeebfb1
+    home: https://dataease.io
+    icon: https://dataease.io/images/logo/favicon.ico
+    maintainers:
+    - email: fanyumin@139.com
+      name: fanyumin
+    name: dataease
+    sources:
+    - https://github.com/chwjbn/dataease-helm
+    urls:
+    - dataease-1.18.4.tgz
+    version: 1.18.4
+generated: "2023-06-27T23:13:07.2444366+08:00"
